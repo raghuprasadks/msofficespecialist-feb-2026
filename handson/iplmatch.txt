@@ -1,0 +1,3 @@
+hometeam,awayteam,runhome,runaway,winner
+rcb,mi,150,140,rcb
+csk,mi,150,160,mi
