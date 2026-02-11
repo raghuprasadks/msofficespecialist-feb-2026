@@ -1,0 +1,9 @@
+Agenda:
+
+1. Formatting
+2. Graphs
+
+prompt
+top 10 economies in the world in 2026
+
+convert into a table format having country,gdp,per capita,ppp
