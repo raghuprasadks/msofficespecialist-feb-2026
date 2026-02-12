@@ -5,5 +5,5 @@ Agenda:
 
 prompt
 top 10 economies in the world in 2026
-
+add per capita and ppp
 convert into a table format having country,gdp,per capita,ppp

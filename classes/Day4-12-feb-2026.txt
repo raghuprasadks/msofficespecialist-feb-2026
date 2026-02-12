@@ -1,0 +1,17 @@
+Agenda:
+1. Usage of AI with Excel (Done)
+Office 365 with co-pilot license
+Visual Studio Code
+Generative AI
+generate text
+generate image
+audio,video
+promt
+create a caricature of me and my job
+based on everything you know about me
+prompt
+I want to create a website for BCA departent of Surana College. I want Sign Up,Login, Logout,Change Password features. Use html,css and java script for creating a website
+
+2. Pivot Tables - (Done)
+3. Mock assignment (Done)
+4. Excel Data Analytics project - (Done)
