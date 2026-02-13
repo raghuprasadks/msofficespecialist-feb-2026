@@ -1,0 +1,22 @@
+Agenda:
+1.Building a data analytics project
+use case 1 - Vrinda Stores
+pivot tables
+
+Data source - sql,excel,csv,text file
+cloud database,third party api
+Data cleaning,validated
+Types of reports we can build
+which help us to get insight into the 
+business
+Visualization
+
+a.Identify problem statements
+or Key Performance Indicators (KPI's)
+b. Analyze the data given
+
+1. Replace W with Women, M with Men
+2. Create Age Group column
+=IF([@Age]>50,"Senior",IF([@Age]>30,"Adult","Teenager"))
+3. Create Month column
+=TEXT([@Date],"mmm")
